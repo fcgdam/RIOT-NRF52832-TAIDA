@@ -32,7 +32,7 @@ extern "C" {
  * @name    UART configuration
  * @{
  */
-#define UART_NUMOF          (0U)
+#define UART_NUMOF          (1U)
 #define UART_PIN_RX         GPIO_PIN(0,18)
 #define UART_PIN_TX         GPIO_PIN(0,19)
 /** @} */
