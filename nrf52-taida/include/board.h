@@ -31,7 +31,7 @@ extern "C" {
  * @{
  */
 #define LED0_PIN            GPIO_PIN(0, 30)
-#define LED1_PIN            GPIO_PIN(0, 11)
+#define LED1_PIN            GPIO_PIN(0, 31)
 
 #define LED_PORT            (NRF_P0)
 #define LED0_MASK           (1 << 30)
